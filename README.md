@@ -2,13 +2,10 @@
  
 
 ## 🔗 Quick Links
-
-> - [📍 Overview](#-overview) 
-> - [🧩 Modules](#-modules)
+  > - [🧩 Modules](#-modules)
 > - [🚀 Getting Started](#-getting-started)
 >   - [⚙️ Installation](#️-installation)
->   - [🤖 Running Efukt](#-running-Efukt)
->   - [🧪 Tests](#-tests)
+>   - [🤖 Running Efukt](#-running-Efukt) 
 > - [🛠 Project Roadmap](#-project-roadmap)
 > - [🤝 Contributing](#-contributing)
 > - [📄 License](#-license)
