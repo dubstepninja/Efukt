@@ -26,7 +26,7 @@
 
 ## 🧩 Modules
 
-<details closed><summary>.</summary>
+<details open><summary>.</summary>
 
 | File                                                                                   |
 | ---                                                                                    |
